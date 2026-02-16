@@ -1,41 +1,34 @@
-# 👨‍💻 Kevin | Systems & Infrastructure Admin
+# 👨‍💻 Kevin | Administrador de Sistemas e Infraestrutura
 
-### "Control the machine, or be controlled by it."
+> "Controle a máquina, ou seja controlado por ela."
 
----
+## Sobre Mim
+Entusiasta de sistemas de baixo nível e usuário de Arch Linux. Focado em maximizar performance de hardware via otimização de kernel, gerenciamento de TDP e automação de sistemas.  
+- **SO Principal**: Arch Linux (Daily Driver)  
+- **WM**: Hyprland (Wayland)  
+- **Expertise**: Otimização de hardware via software & ROMs customizadas  
+- **Objetivo**: Especialista em Infraestrutura de Rede e Segurança  
+- **Local**: Maceió, AL, Brasil  
 
-## 🚀 Sobre Mim
-Entusiasta de sistemas de baixo nível e usuário de **Arch Linux**. Focado em extrair a performance máxima do hardware através de otimização de Kernel, TDP e automação de sistemas.
+## Pilha Tecnológica & Ferramentas
+- **Linguagens**: Python, C, Bash  
+- **Ferramentas**: Git, Docker, Wireshark, Ansible  
+- **Interesses**: Automação de rede, tuning de performance, segurança cibernética  
 
-- 🐧 **Main OS:** Arch Linux (Daily Driver)
-- 🖥️ **WM:** Hyprland (Wayland)
-- ⚡ **Expertise:** Otimização de hardware via software & Custom ROMs
-- 🎯 **Meta:** Especialista em Infraestrutura de Redes e Segurança
+## Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinnots1303&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinnots1303&layout=compact&theme=radical)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kevinnots1303&theme=radical)  
 
----
+## Repositórios em Destaque
+- **[Dotfiles](https://github.com/kevinnots1303/Dotfiles)**: Minha config pessoal de Rice (Hyprland + Waybar). ⭐ 0 | 🍴 0 | Linguagem: Shell  
+- **[Scripts-Repo](https://github.com/kevinnots1303/Scripts-Repo)**: Ferramentas de automação e monitoramento de rede em Python. ⭐ 0 | 🍴 0 | Linguagem: Python  
+- **[TDP-Tuning](https://github.com/kevinnots1303/TDP-Tuning)**: Documentação de tweaks de voltagem e performance. ⭐ 0 | 🍴 0 | Linguagem: Markdown  
+- **[Maceio-IT-Support](https://github.com/kevinnots1303/Maceio-IT-Support)**: Recursos locais para suporte TI em Maceió. (Adicione descrição real aqui).  
 
-## 🛠️ Tech Stack & Tools
+## Contato
+- 📧 [iaewkevin@gmail.com](mailto:iaewkevin@gmail.com)  
+- 📞 (82) 99609-6914  
+- 🔗 [LinkedIn](https://linkedin.com/in/kevinnots) | [X/Twitter](https://x.com/kevinnots)  
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-
----
-
-## 📊 Estatísticas (Live)
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinnots1303&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinnots1303&layout=compact&theme=tokyonight)
-
----
-
-## 📁 Repositórios Chave
-- **[Dotfiles]:** Minha config pessoal de Rice (Hyprland + Waybar).
-- **[Scripts-Repo]:** Ferramentas de automação e monitoramento de rede em Python.
-- **[TDP-Tuning]:** Documentação de tweaks de voltagem e performance.
-
----
-
-### 📫 Contato:
-[📞 (82) 99609-6914 | [iaewkevin@gmail.com]
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kevinnots1303.kevinnots1303)  

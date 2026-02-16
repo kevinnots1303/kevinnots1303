@@ -1,20 +1,20 @@
-# 🐧 Kevin | Systems & Infrastructure Specialist
+# 👨‍💻 Kevin | Systems & Infrastructure Admin
 
-### "Optimizing hardware through software. Arch Linux user by choice."
+### "Control the machine, or be controlled by it."
 
 ---
 
 ## 🚀 Sobre Mim
-Sou um entusiasta de sistemas de baixo nível e infraestrutura. Especialista em ambientes Unix-like, focado em extrair a performance máxima do hardware através de ajustes de Kernel e automação.
+Entusiasta de sistemas de baixo nível e usuário de **Arch Linux**. Focado em extrair a performance máxima do hardware através de otimização de Kernel, TDP e automação de sistemas.
 
-- 🛠️ **OS Principal:** Arch Linux (Daily Driver)
+- 🐧 **Main OS:** Arch Linux (Daily Driver)
 - 🖥️ **WM:** Hyprland (Wayland)
-- ⚡ **Expertise:** Otimização de TDP, Governors de CPU e Custom ROMs
-- 📍 **Localização:** Maceió, AL (Disponível para suporte e infraestrutura)
+- ⚡ **Expertise:** Otimização de hardware via software & Custom ROMs
+- 🎯 **Meta:** Especialista em Infraestrutura de Redes e Segurança
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
@@ -24,12 +24,18 @@ Sou um entusiasta de sistemas de baixo nível e infraestrutura. Especialista em 
 
 ---
 
-## 📊 Estatísticas
-![Stats de Kevin](https://github-readme-stats.vercel.app/api?username=kevinnots1303&show_icons=true&theme=tokyonight)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinnots1303&layout=compact&theme=tokyonight)
+## 📊 Estatísticas (Live)
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinnots1303&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinnots1303&layout=compact&theme=tokyonight)
 
 ---
 
-## 📂 Repositórios em Destaque
-- **Dotfiles:** Minha configuração completa de Hyprland + Waybar + Kitty.
-- **SysAdmin-Tools:** Scripts em Python e Bash para automação de rede e backup.
+## 📁 Repositórios Chave
+- **[Dotfiles]:** Minha config pessoal de Rice (Hyprland + Waybar).
+- **[Scripts-Repo]:** Ferramentas de automação e monitoramento de rede em Python.
+- **[TDP-Tuning]:** Documentação de tweaks de voltagem e performance.
+
+---
+
+### 📫 Contato:
+[Seu LinkedIn] | [Seu Email]

@@ -38,4 +38,4 @@ Entusiasta de sistemas de baixo nível e usuário de **Arch Linux**. Focado em e
 ---
 
 ### 📫 Contato:
-[Seu LinkedIn] | [Seu Email]
+[📞 (82) 99609-6914 | [iaewkevin@gmail.com]
